@@ -7,9 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amon-mn&layout=compact&hide_border=true&title_color=13CE54&text_color=ff91a4&bg_color=0d1117"/>
 </div>
 
-##
-
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amon-mn&bg_color=0d1117&color=13CE54&line=13CFC5&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amon-mn&bg_color=0d1117&color=13CE54&line=13CFC5&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 <div align="center" style="display: inline_block"><br>
@@ -22,7 +20,6 @@
   <img align="center" alt="Amxn-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 -->
-
 
 <div align="center"> 
   <a href="https://instagram.com/amon_tripp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -45,8 +42,9 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+## Visitors Count
+<div align="left">
+<br>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{amon-mn}/count.svg" /></p> 
 <br>
 </div>
@@ -54,4 +52,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=13CE54&height=120&section=footer"/>
 
 
-![snake gif](https://github.com/amon-mn/amon-mn/blob/output/github-contribution-grid-snake.svg)
+
