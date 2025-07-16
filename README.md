@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=13CE54&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E44AD&height=120&section=header"/>
 
 <h1 align="center">👋 Olá, eu sou o Amon Menezes!</h1>
 <h3 align="center">Engenheiro de Software com 3 anos de experiência, apaixonado por transformar ideias em soluções tecnológicas reais.</h3>
@@ -31,6 +31,7 @@ Aqui estão as principais tecnologias e ferramentas com as quais trabalho e estu
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
 
 ### 🔙 Backend
@@ -75,4 +76,12 @@ Aqui estão as principais tecnologias e ferramentas com as quais trabalho e estu
   <a href="https://www.linkedin.com/in/amonmenezesnegreiros" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=13CE54&height=120&section=footer"/>
+---
+
+## ⭐ GitHub Stats
+
+<a href="https://github.com/amonmn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amonmn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amonmn&layout=compact&langs_count=6&theme=radical"/>
+</a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E44AD&height=120&section=footer"/>
