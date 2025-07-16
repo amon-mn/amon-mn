@@ -10,15 +10,6 @@
 - 🧠 Minha paixão e principal área de atuação atualmmente é o **desenvolvimento Mobile**, com foco na criação de aplicativos intuitivos, eficientes e de alta performance.
 
 ---
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amonmn/amonmn/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amonmn/amonmn/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amonmn/amonmn/output/pacman-contribution-graph.svg">
-</picture>
-
-###
----
 
 
 ## ⭐ GitHub Stats
