@@ -15,7 +15,7 @@ jobs:
       - name: Gerar gráfico da cobrinha
         uses: Platane/snk@v3
         with:
-          github_user_name: amonmn
+          github_user_name: amon-mn
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg
