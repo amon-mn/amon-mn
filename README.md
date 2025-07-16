@@ -9,6 +9,24 @@
 - 👨‍💻 Sou **Engenheiro de Software**, com 3 anos de experiência em desenvolvimento de soluções tecnológicas, e formado pelo Instituto Federal do Amazonas, em Manaus.
 - 🧠 Minha paixão e principal área de atuação atualmmente é o **desenvolvimento Mobile**, com foco na criação de aplicativos intuitivos, eficientes e de alta performance.
 
+---
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amonmn/amonmn/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amonmn/amonmn/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amonmn/amonmn/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+---
+
+
+## ⭐ GitHub Stats
+
+<a href="https://github.com/amonmn">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amonmn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amonmn&layout=compact&langs_count=6&theme=radical"/>
+</a>
 
 ## Stack
 - Abaixo estão as principais tecnologias com as quais já trabalhei em projetos reais, desde aplicações mobile e web até soluções backend, aprendizado de máquina, inteligência artificial e integrações em nuvem.
