@@ -1,29 +1,31 @@
-name: Generate Snake
+name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Executa todos os dias à meia-noite UTC
+  workflow_dispatch:     # Permite execução manual pelo GitHub
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Gerar gráfico da cobrinha
+      - name: Gerar gráfico estilo Pac-Man
         uses: Platane/snk@v3
         with:
-          github_user_name: amon-mn
+          github_user_name: amonmn
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg
 
-      - name: Subir na branch output
+      - name: Publicar na branch 'output'
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
