@@ -16,7 +16,7 @@
 
 🧠 Tenho experiências com aplicações de <strong>Inteligência Artificial</strong> aplicadas a visão computacional e análise de dados, incluindo uso de CNNs para detecção em tempo real. <br><br>
 
-💡 Acredito no poder da tecnologia como ferramenta de transformação e sigo aprimorando minhas habilidades com foco em desenvolvimento Android mais profundo com Kotlin.
+💡 Acredito no poder da tecnologia como ferramenta de transformação e sigo aprimorando minhas habilidades com foco em desenvolvimento Android mais profundo.
 </p>
 
 ---
