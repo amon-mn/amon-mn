@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E44AD&height=120&section=header"/>
 
-<h1 align="center">👋 Olá, eu sou o Amon Menezes!</h1>
+<h1 align="center">Olá, eu sou o Amon Menezes! 👋🏽</h1>
 <h3 align="center">Engenheiro de Software com 3 anos de experiência, apaixonado por transformar ideias em soluções tecnológicas reais.</h3>
 
 ---
@@ -16,7 +16,7 @@
 
 🧠 Tenho experiências com aplicações de <strong>Inteligência Artificial</strong> aplicadas a visão computacional e análise de dados, incluindo uso de CNNs para detecção em tempo real. <br><br>
 
-💡 Acredito no poder da tecnologia como ferramenta de transformação e sigo aprimorando minhas habilidades com foco em desenvolvimento Android mais profundo.
+💡 Acredito no poder da tecnologia como ferramenta de transformação e sigo aprimorando minhas habilidades com foco em desenvolvimento Android a nível mais profundo.
 </p>
 
 ---
